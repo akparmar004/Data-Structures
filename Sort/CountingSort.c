@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-
 void sort(int *arr,int n);
 
 void main()
